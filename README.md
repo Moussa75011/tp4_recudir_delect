@@ -24,4 +24,8 @@ Cela va nous permettre de débloquer la capacité de supprimer des photos
 
 
 
+A SAVOIR :
+
+Des captures d'ecrant sont dans le dossier TP4_recudir_delect
+
 
