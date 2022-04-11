@@ -3,7 +3,7 @@ Création d'un systeme d'un programme en PHP perméttant le téléverssement d'i
 
 ## IMAGE
 
-![ recursive ]( /Screenshot 2022-04-08 at 23.36.01.png )
+![ recursive ]( https://github.com/Moussa75011/tp4_recudir_delect/blob/master/Screenshot%202022-04-08%20at%2023.36.01.png )
 
 
 # Instalation
