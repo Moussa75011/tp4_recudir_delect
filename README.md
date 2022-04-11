@@ -1,9 +1,10 @@
 # Pagination-Téléverssement-récurssif  
 Création d'un systeme d'un programme en PHP perméttant le téléverssement d'images, tout en ayant une pagination ainsi qu'un bouton pour scan permettant l'affichage du répértoire du dossier docs ainsi que le téléverssement de toutes les images le contenant vers le dossier images et la bdd. De plus il est possible de supprimer les images lorseque nous sommes connécter en tant qu'admin.   
 
-## IMAGE
+## IMAGES
 
 ![ recursive ]( https://github.com/Moussa75011/tp4_recudir_delect/blob/master/Screenshot%202022-04-08%20at%2023.36.01.png )
+![ recursive ](https://github.com/Moussa75011/tp4_recudir_delect/blob/master/Screenshot%202022-04-09%20at%2000.46.26.png)
 
 
 # Instalation
